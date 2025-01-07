@@ -1,0 +1,576 @@
+Understat_ID,Understat_Name
+0,534,Aaron Cresswell
+1,8942,Aaron Hickey
+2,5603,Aaron Ramsdale
+3,5584,Aaron Wan-Bissaka
+4,1726,Abdoulaye Doucouré
+5,900,Adama Traoré
+6,4419,Adam Armstrong
+7,1711,Adam Forshaw
+8,486,Adam Lallana
+9,825,Adam Smith
+10,7699,Adam Webster
+11,1750,Ainsley Maitland-Niles
+12,9689,Albert Sambi Lokonga
+13,10552,Alejandro Garnacho
+14,773,Aleksandar Mitrovic
+15,5232,Alexander Isak
+16,8379,Alexis Mac Allister
+17,500,Alex Iwobi
+18,635,Alex McCarthy
+19,10761,Alex Mighten
+20,966,Alex Oxlade-Chamberlain
+21,1257,Alisson
+22,101,Allan Saint-Maximin
+23,2310,Alphonse Areola
+24,9667,Amadou Onana
+25,922,Andreas Pereira
+26,11193,Andrew Moran
+27,1688,Andrew Robertson
+28,713,André Ayew
+29,528,Angelo Ogbonna
+30,9524,Anthony Elanga
+31,8150,Anthony Gordon
+32,553,Anthony Martial
+33,11363,Antoine Semenyo
+34,8940,Antonee Robinson
+35,11094,Antony
+36,8384,Armando Broja
+37,9710,Armel Bella Kotchap
+38,8066,Arnaut Danjuma Groeneveld
+39,631,Ashley Young
+40,694,Asmir Begovic
+41,2498,Aymeric Laporte
+42,770,Ayoze Pérez
+43,7240,Benoit Badiashile Mukinayi
+44,782,Ben Chilwell
+45,660,Ben Davies
+46,11231,Ben Doak
+47,7689,Ben Godfrey
+48,6424,Ben Johnson
+49,1654,Ben Mee
+50,10742,Ben Pearson
+51,7298,Ben White
+52,3635,Bernardo Silva
+53,181,Bernd Leno
+54,695,Bertrand Traoré
+55,7988,Billy Gilmour
+56,10997,Bobby Clark
+57,6827,Bobby Reid
+58,5789,Boubacar Kamara
+59,8119,Boubacar Traore
+60,6310,Boubakary Soumare
+61,10751,Brenden Aaronson
+62,10760,Brennan Johnson
+63,1228,Bruno Fernandes
+64,8327,Bruno Guimarães
+65,7338,Bryan Gil Salvatierra
+66,6552,Bryan Mbeumo
+67,7322,Bukayo Saka
+68,5646,Cafú
+69,5264,Caglar Söyüncü
+70,468,Callum Wilson
+71,508,Calum Chambers
+72,9912,Cameron Archer
+73,11544,Cameron Peupion
+74,7904,Caoimhin Kelleher
+75,11297,Carlos Alcaraz
+76,7395,Carlos Vinicius
+77,9356,Carney Chukwuemeka
+78,2248,Casemiro
+79,8666,Cheick Oumar Doucoure
+80,532,Cheikhou Kouyaté
+81,9741,Chem Campbell
+82,7700,Che Adams
+83,646,Christian Eriksen
+84,7083,Christian Nørgaard
+85,2662,Christian Pulisic
+86,7384,Chris Mepham
+87,8430,Chris Richards
+88,4456,Chris Wood
+89,5050,Clement Lenglet
+90,9499,Cody Drameh
+91,11296,Cody Gakpo
+92,8497,Cole Palmer
+93,10753,Connor Ronan
+94,6851,Conor Coady
+95,7239,Conor Coventry
+96,9040,Conor Gallagher
+97,804,Craig Dawson
+98,2371,Cristiano Ronaldo
+99,7218,Cristian Romero
+100,9492,Crysencio Summerville
+101,6665,Curtis Jones
+102,847,Cédric Soares
+103,681,César Azpilicueta
+104,9662,Dango Ouattara
+105,759,Daniel Amartey
+106,11361,Daniel Bentley
+107,10808,Daniel Iversen
+108,5595,Daniel James
+109,8291,Daniel Podence
+110,11317,Danilo
+111,986,Danny Ings
+112,473,Danny Ward
+113,501,Danny Welbeck
+114,7382,Dan Burn
+115,10752,Darko Gyabi
+116,10720,Darwin Núñez
+117,6820,David Brooks
+118,11295,David Datro Fofana
+119,546,David de Gea
+120,11268,David Ozoh
+121,9676,David Raya
+122,6249,Davinson Sánchez
+123,7702,Dean Henderson
+124,5553,Declan Rice
+125,6691,Dejan Kulusevski
+126,645,Dele Alli
+127,762,Demarai Gray
+128,6147,Denis Zakaria
+129,10804,Deniz Undav
+130,1234,Dennis Praet
+131,11233,Dexter Lembikisa
+132,5712,Diego Carlos
+133,802,Diego Costa
+134,2163,Diego Llorente
+135,7281,Diogo Dalot
+136,6854,Diogo Jota
+137,11242,Divin Mubama
+138,10764,Djed Spence
+139,11583,Dominic Ballard
+140,5555,Dominic Calvert-Lewin
+141,1679,Dominic Solanke
+142,8821,Donny van de Beek
+143,6122,Douglas Luiz
+144,7007,Duje Caleta-Car
+145,6756,Dwight McNeil
+146,8706,Eberechi Eze
+147,6482,Eddie Nketiah
+148,6054,Ederson
+149,6880,Edouard Mendy
+150,9154,Elliot Anderson
+151,8582,Ellis Simms
+152,1245,Emerson
+153,7430,Emerson
+154,7230,Emile Smith-Rowe
+155,2203,Emiliano Buendía
+156,10745,Emiliano Marcondes
+157,4401,Emiliano Martinez
+158,1545,Emil Krafth
+159,9301,Emmanuel Dennis
+160,9734,Enock Mwepu
+161,11356,Enzo Fernández
+162,643,Eric Dier
+163,8260,Erling Haaland
+164,5136,Estupiñán
+165,11132,Ethan Nwaneri
+166,9678,Ethan Pinnock
+167,10177,Evan Ferguson
+168,7726,Ezri Konsa Ngoyo
+169,76,Fabian Schär
+170,3420,Fabinho
+171,9501,Fabio Carvalho
+172,11362,Facundo Buonanotte
+173,9324,Facundo Pellistri
+174,7921,Felipe
+175,10845,Flynn Downes
+176,9681,Frank Onyeka
+177,831,Fraser Forster
+178,6817,Fred
+179,11007,Fábio Vieira
+180,5613,Gabriel
+181,5543,Gabriel Jesus
+182,7752,Gabriel Martinelli
+183,10765,Gavin Bazunu
+184,11509,George Abbott
+185,6937,Georginio Rutter
+186,6253,Gianluca Scamacca
+187,7282,Giulian Biancone
+188,5682,Gonçalo Guedes
+189,204,Granit Xhaka
+190,11284,Gustavo Scarpa
+191,8992,Hakim Ziyech
+192,9686,Halil Dervisoglu
+193,6986,Hamed Junior Traore
+194,910,Harrison Reed
+195,647,Harry Kane
+196,1687,Harry Maguire
+197,6329,Harry Souttar
+198,10758,Harry Toffolo
+199,5596,Harry Wilson
+200,6681,Harvey Barnes
+201,7546,Harvey Elliott
+202,8458,Harvey White
+203,8845,Hee-Chan Hwang
+204,10140,Hugo Bueno
+205,637,Hugo Lloris
+206,6736,Ibrahima Diallo
+207,6326,Ibrahima Konaté
+208,668,Idrissa Gueye
+209,314,Ilkay Gündogan
+210,8715,Illan Meslier
+211,11486,Illia Zabarnyi
+212,9470,Isaac Price
+213,3203,Issa Diop
+214,448,Ivan Perisic
+215,998,Ivan Toney
+216,767,Jack Colback
+217,675,Jack Grealish
+218,8720,Jack Harrison
+219,11269,Jack Hinshelwood
+220,7823,Jack Stacey
+221,1735,Jack Stephens
+222,6063,Jacob Murphy
+223,8941,Jacob Ramsey
+224,6345,Jadon Sancho
+225,10746,Jaidon Anthony
+226,6027,Jairo Riedewald
+227,10012,Jakub Kiwior
+228,766,Jamaal Lascelles
+229,7691,Jamal Lewis
+230,10865,Jamal Lowe
+231,11359,James Bree
+232,7438,James Garner
+233,7753,James Justin
+234,6818,James Maddison
+235,633,James McArthur
+236,489,James Milner
+237,1665,James Tarkowski
+238,530,James Tomkins
+239,843,James Ward-Prowse
+240,755,Jamie Vardy
+241,6042,Jan Bednarek
+242,10807,Jan Paul van Hecke
+243,8222,Japhet Tanganga
+244,1776,Jarrod Bowen
+245,7235,Jason Steele
+246,1719,Javier Manquillo
+247,10718,Jay Stansfield
+248,5735,Jean-Philippe Mateta
+249,2182,Jefferson Lerma
+250,757,Jeffrey Schlupp
+251,10036,Jeremy Sarmiento
+252,558,Jesse Lingard
+253,11366,Jhon Durán
+254,6314,Joachim Andersen
+255,87,Joelinton
+256,332,Joel Matip
+257,584,Joel Robles
+258,510,Joel Ward
+259,10766,Joe Ayodele-Aribo
+260,9339,Joe Gelhardt
+261,561,Joe Rothwell
+262,6630,Joe Willock
+263,10756,Joe Worrall
+264,7723,John McGinn
+265,586,John Stones
+266,769,Jonjo Shelvey
+267,2280,Jonny
+268,807,Jonny Evans
+269,672,Jordan Ayew
+270,605,Jordan Henderson
+271,741,Jordan Pickford
+272,10740,Jordan Zemura
+273,1389,Jorginho
+274,987,Joseph Gomez
+275,10755,Joseph Hodge
+276,11005,Joseph Whitworth
+277,10405,Josh Dasilva
+278,661,Josh Onomah
+279,9740,José Sá
+280,2379,João Cancelo
+281,7892,João Félix
+282,11384,João Gomes
+283,3422,João Moutinho
+284,10715,João Palhinha
+285,8780,Joël Veltman
+286,11078,Juan Larios
+287,11058,Julio Enciso
+288,10846,Julián Álvarez
+289,463,Junior Stanislas
+290,6485,Júnior Firpo
+291,5220,Kai Havertz
+292,1376,Kalidou Koulibaly
+293,8719,Kalvin Phillips
+294,9630,Kamaldeen Sulemana
+295,11582,Kamari Doyle
+296,10806,Kaoru Mitoma
+297,10809,Keane Lewis-Potter
+298,620,Kelechi Iheanacho
+299,5973,Kenny Tete
+300,5061,Kepa
+301,447,Kevin De Bruyne
+302,983,Kevin Mbabu
+303,9156,Kevin Schade
+304,2243,Keylor Navas
+305,10743,Kieffer Moore
+306,8089,Kieran Tierney
+307,652,Kieran Trippier
+308,9739,Kiernan Dewsbury-Hall
+309,11174,Kobbie Mainoo
+310,8852,Konstantinos Tsimikas
+311,9677,Kristoffer Ajer
+312,935,Kurt Zouma
+313,885,Kyle Walker-Peters
+314,638,Kyle Walker
+315,3298,Layvin Kurzawa
+316,7236,Leander Dendoncker
+317,7698,Leandro Trossard
+318,5221,Leon Bailey
+319,10805,Levi Colwill
+320,10168,Lewis Brunt
+321,1789,Lewis Cook
+322,6048,Lewis Dunk
+323,10216,Lewis Hall
+324,11386,Lewis Miley
+325,10759,Lewis O&#039;Brien
+326,8816,Liam Cooper
+327,10802,Lisandro Martínez
+328,8090,Lloyd Kelly
+329,1823,Lucas Digne
+330,3293,Lucas Moura
+331,7365,Lucas Paquetá
+332,6083,Ludwig Augustinsson
+333,10408,Luis Díaz
+334,10866,Luis Sinisterra
+335,706,Lukasz Fabianski
+336,5549,Luka Milivojevic
+337,8716,Luke Ayling
+338,10719,Luke Harris
+339,1006,Luke Shaw
+340,8562,Luke Thomas
+341,6252,Lyanco
+342,9683,Mads Bech Sørensen
+343,9685,Mads Roerslev
+344,10698,Malcolm Ebiowei
+345,10716,Manor Solomon
+346,6490,Manuel Akanji
+347,535,Manuel Lanzini
+348,5248,Marcel Sabitzer
+349,10864,Marcos Senesi
+350,556,Marcus Rashford
+351,10741,Marcus Tavernier
+352,753,Marc Albrighton
+353,7134,Marc Cucurella
+354,7603,Marc Guehi
+355,5086,Marc Roca
+356,8704,Marek Rodák
+357,1299,Mario Lemina
+358,7582,Mark Travers
+359,11035,Marquinhos
+360,6532,Martin Dubravka
+361,2517,Martin Odegaard
+362,985,Mason Holgate
+363,7768,Mason Mount
+364,11208,Mateo Joseph
+365,2254,Mateo Kovacic
+366,4381,Mateusz Klich
+367,7080,Matheus Cunha
+368,11000,Matheus Nunes
+369,7166,Mathias Jensen
+370,9892,Matias Viña
+371,8864,Matthew Cash
+372,10579,Matthew Craig
+373,6852,Matt Doherty
+374,461,Matt Ritchie
+375,884,Matt Targett
+376,7366,Maximilian Wöber
+377,3278,Maxwel Cornet
+378,7332,Max Kilman
+379,1653,Michael Keane
+380,9948,Michael Olise
+381,531,Michail Antonio
+382,7420,Miguel Almirón
+383,8859,Mikkel Damsgaard
+384,11298,Mislav Orsic
+385,496,Mohamed Elneny
+386,6894,Mohamed Elyounoussi
+387,1250,Mohamed Salah
+388,6923,Mohammed Salisu
+389,9453,Moisés Caicedo
+390,6857,Morgan Gibbs-White
+391,3696,Morgan Sanson
+392,7701,Moussa Djenepo
+393,5989,Moussa Niakhate
+394,11305,Mykhailo Mudryk
+395,11378,Máximo Perrone
+396,751,N&#039;Golo Kanté
+397,5247,Naby Keita
+398,6935,Naif Aguerd
+399,1785,Nampalys Mendy
+400,9274,Naouirou Ahamada
+401,1677,Nathaniel Chalobah
+402,603,Nathaniel Clyne
+403,8228,Nathaniel Phillips
+404,579,Nathan Aké
+405,9733,Nathan Collins
+406,10292,Nathan Patterson
+407,790,Nathan Redmond
+408,3621,Neal Maupay
+409,8204,Neco Williams
+410,6840,Neeskens Kebano
+411,1297,Neto
+412,5552,Nick Pope
+413,11357,Noni Madueke
+414,6163,Nélson Semedo
+415,10453,Odeluga Offiah
+416,3697,Odsonne Edouard
+417,2958,Oleksandr Zinchenko
+418,7198,Oliver Skipp
+419,8865,Ollie Watkins
+420,10348,Omari Hutchinson
+421,6088,Orel Mangala
+422,842,Oriol Romeu
+423,11034,Owen Bevan
+424,2335,Pablo Fornals
+425,2199,Pablo Sarabia
+426,9021,Pape Sarr
+427,239,Pascal Groß
+428,8717,Pascal Struijk
+429,822,Patrick Bamford
+430,9738,Patson Daka
+431,11360,Paul Onuachu
+432,6382,Pedro Neto
+433,6912,Pedro Porro
+434,488,Philippe Coutinho
+435,6034,Philip Billing
+436,6055,Phil Foden
+437,318,Pierre-Emerick Aubameyang
+438,343,Pierre-Emile Højbjerg
+439,1801,Pontus Jansson
+440,618,Raheem Sterling
+441,2245,Raphael Varane
+442,10750,Rasmus Kristensen
+443,6674,Rayan Ait Nouri
+444,4105,Raúl Jiménez
+445,8067,Reece James
+446,6492,Reiss Nelson
+447,1488,Remo Freuler
+448,7891,Renan Lodi
+449,3303,Ricardo Pereira
+450,6026,Richarlison
+451,9679,Rico Henry
+452,10847,Rico Lewis
+453,750,Riyad Mahrez
+454,482,Roberto Firmino
+455,9098,Robert Sánchez
+456,6273,Robin Koch
+457,6962,Robin Olsen
+458,1749,Rob Holding
+459,2381,Rodrigo
+460,6108,Rodrigo Bentancur
+461,2496,Rodri
+462,6500,Romain Perraud
+463,10004,Romeo Lavia
+464,688,Ruben Loftus-Cheek
+465,10744,Ryan Christie
+466,1683,Ryan Fraser
+467,6891,Ryan Fredericks
+468,6837,Ryan Sessegnon
+469,11003,Ryan Yates
+470,8961,Rúben Dias
+471,6853,Rúben Neves
+472,6856,Rúben Vinagre
+473,3585,Said Benrahma
+474,813,Salomón Rondón
+475,7069,Saman Ghoddos
+476,11618,Samuel Amo-Ameyaw
+477,10072,Samuel Edozie
+478,9493,Sam Greenwood
+479,978,Sam Johnstone
+480,5602,Sam Surridge
+481,8812,Sasa Kalajdzic
+482,1537,Sasa Lukic
+483,10757,Scott McKenna
+484,5560,Scott McTominay
+485,585,Seamus Coleman
+486,7078,Sean Longstaff
+487,3600,Serge Aurier
+488,6656,Sergio Gómez
+489,1078,Sergi Canos
+490,9914,Shandon Baptiste
+491,6047,Shane Duffy
+492,11594,Shea Charles
+493,10749,Siriki Dembélé
+494,6049,Solly March
+495,453,Son Heung-Min
+496,10723,Stefan Bajcetic
+497,8786,Stefan Ortega Moreno
+498,458,Steve Cook
+499,6893,Stuart Armstrong
+500,8635,Sven Botman
+501,8970,Sékou Mara
+502,7814,Taiwo Awoniyi
+503,7931,Takehiro Tomiyasu
+504,8226,Tariq Lamptey
+505,10536,Tetê
+506,503,Theo Walcott
+507,229,Thiago Alcántara
+508,3288,Thiago Silva
+509,2674,Thilo Kehrer
+510,11232,Thomas Cannon
+511,2328,Thomas Partey
+512,6157,Timothy Castagne
+513,7184,Tim Ream
+514,8288,Tomas Soucek
+515,6835,Tom Cairney
+516,1042,Tom Davies
+517,5590,Tosin Adarabioyo
+518,10293,Toti
+519,1791,Trent Alexander-Arnold
+520,6615,Trevoh Chalobah
+521,7352,Tyler Adams
+522,10803,Tyrell Malacia
+523,9552,Tyrese Francois
+524,8214,Tyrick Mitchell
+525,1024,Tyrone Mings
+526,Arsenal,understat
+527,Villa,understat Aston
+528,Bournemouth,understat
+529,Brentford,understat
+530,Brighton,understat
+531,Chelsea,understat
+532,Palace,understat Crystal
+533,Everton,understat
+534,Fulham,understat
+535,Leeds,understat
+536,Leicester,understat
+537,Liverpool,understat
+538,City,understat Manchester
+539,United,understat Manchester
+540,United,understat Newcastle
+541,Forest,understat Nottingham
+542,player,understat
+543,Southampton,understat
+544,Tottenham,understat
+545,Ham,understat West
+546,Wanderers,understat Wolverhampton
+547,9512,Valentino Livramento
+548,2190,Vicente Guaita
+549,11367,Victor Kristiansen
+550,6080,Victor Lindelöf
+551,833,Virgil van Dijk
+552,10291,Vitalii Mykolenko
+553,9680,Vitaly Janelt
+554,8965,Vladimir Coufal
+555,509,Wayne Hennessey
+556,7589,Wesley Fofana
+557,5360,Weston McKennie
+558,5545,Wilfred Ndidi
+559,11155,Wilfried Gnonto
+560,522,Wilfried Zaha
+561,6888,William Saliba
+562,700,Willian
+563,6850,Willy Boly
+564,6104,Will Hughes
+565,8646,Wout Faes
+566,7052,Wout Weghorst
+567,7280,Yan Valery
+568,11385,Yasin Ayari
+569,6521,Yerry Mina
+570,5786,Yoane Wissa
+571,5956,Youri Tielemans
+572,5609,Yves Bissouma
+573,6030,Zanka
+574,4120,Álex Moreno
